@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
 <h3 align="center">I am Front-End Developer & Researcher in accounting information systems (AIS).</h3>
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<h3 align="center" onclick="popup55();">Click Here</h3>
-<script type="text/javascript">
-                                function popup1() {swal("Hello world!");
-}
-  </script>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam-handanovic&label=Profile%20views&color=0e75b6&style=flat" alt="hossam-handanovic" /> </p>
 
