@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi 👋, I'm Hossam EL Hendawy</h1>
+<h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
 <h3 align="center">I am Front-End Developer & Researcher in accounting information systems (AIS).</h3>
 
 
